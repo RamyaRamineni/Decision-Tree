@@ -11,7 +11,6 @@ Output.txt
 
 decisionTree.py - It contains the source code of creating a decision tree using ID3 algorithm for the datasets given. 
 README.txt - It contains the description.
-Report.docx - Assumptions and best results of the algorithm implementation.
 Output.txt - It contains the output for one run of the code on sample data set 1 which was provided. 
 
 Development Environment:
